@@ -1,0 +1,67 @@
+LINUX
+É um sistema operacional "open source", criado em 1991 por Linus Torvalds. Seu objetivo era criar uma versão gratuita do sistema operacional MINIX, que é baseado no UNIX.
+Ele é utilizado amplamente em sistemas diversos, como em servidores Web, sistemas embarcados, dispositivos móveis e computadores.
+O linux gerencia a memória e o processador do computador, permitindo o HW comunicar com o SW.
+O kernel é dividio em múltiplos subsistemas menores, tais como: "process scheduler", "device drivers", "memory manager". Estes interagem com uma interface de system call , que por sua vez está 'empacotada' com a biblioteca padrão c. Providenciando um API (Interface de Programação de Aplicações) com  a qual as aplicações de usuário conseguem interagir.
+O projeto GNU providenciou primeiramente aplicações que permitiam/ facilitavam a utilização do sistema operacional pelos humanos. 
+No terminal linux podem ser executados diversos códigos, tais como: ls; pwd; cdd..; cd ~ ; touch; vi; cat; grep; chown; chmod; sudo apt-get install (instalar novos sogtwares); history
+
+
+BASH
+É um interpretador de linguagem de comando para interagir com um computador a partir da linha de comando.
+Permite ao programador acessar dados e escrever arquivos apenas digitando comandos simples, sem que aquele precise lidar com detalhes intrinsecos e mais complicados do kernel.
+Na maioria das distros Linux, ao abrir o terminal, o shell padrão é normalmente Bash. Ele fornece um 'prompt' onde são digitados os comandos que serão interpretados pelo shell e executados no sistema operacional.
+Bash é uma linguagem de programação que nos permite escrever 'scripts' -> tudo que é escrito manualmente na linha de comando pode ser automatizado com código.
+(file.sh) or (file) : add your own custom bash scripts to any project
+#!/PATH/TO/BASH
+criar variável: digitar o nome em CAPS seguido pelo sinal de igual '='
+referenciar posteriormente no script usando '$' na frente do nome da variável
+
+
+ASSEMBLY
+Linguagem de programação de baixo nível (low-level) projetada para simplificar as intruções fornecidas à CPU.
+"Human readable abstraction on top of machine code"
+Primeira linguagem Assembly foi criada por Kathleen Booth em 1947 para o APEC. Depois evoluiu para diferentes formatos para alimentar supercomputadores, como o IBM 790.
+Escrever códigos em Assembly era o padrão até o surgimento de linguagens de alto nível (highlevel), como o Fortran.
+No entanto, Assembly ainda é usado atualmente para acesso direto ao hardware 'bare metal' e para resolver problemas de desempenho de baixo nível, normalmente em sistemas embarcados e device drivers.
+Cada linguagem assembly só funciona em uma arquitetura de cpu específica.
+Programa Assembly é dividido em 3 seções: 
+.TEXT: contém a lógica para o programa
+.BLOCK STARTING SYMBOL: contém variáveis ('variables that might change throughout the life cycle of the app')
+.DATA: inicializar constantes ou dados que não mudam
+
+string: label: db "....", 
+Length: equ $-label
+
+MOV - move into registrer: insert data into a registrer 
+
+SYSCALL - call kernel
+
+"Use assembler to compile or assemble your code into an object file then use the Linker to convert it into the final executable" 
+
+
+C
+"A statically typed procedural programming language" (HighLevel)
+É a linguagem que está por trás de várias ferramentas e nos kernels de sistemas operacionais Windows, Linux e Mac; databases (MySQL); interpretadores de linguagens (Python).
+Criado em 1972 por Dennis Richie em Bell Labs, para ser usado para desenvolver o Unix OS.
+'Mãe' das outras linguagens de programação.
+"It compiles directly to machine code and requires minimal runtime support but it's platform dependent" - o executável roda em um sistema operacional específico
+
+
+C# 
+"A statically typed general purpose programming language"
+"Workhorse of the Windows .net framework"
+Criada em 2000 por Anders Hilburg na Microsoft
+COOL - Modern C-Like Object-Oriented Language
+Usada para montar aplicativos desktop (.NET), core crossplatform mobile apps (XAMARIM), aplicativos Web (BLAZOR), video games (UNITY)
+O código C# é compilado em uma linguagem intermediária que pode ser interpretada pelo 'common language runtime', onde pode ser executado como código na máquina nativa sem necessidade de recompilar.
+Functional Patterns
+LINQ 
+- memory safe language thanks to garbage collection
+
+Classes
+declaração variáveis: TYPE - NAME - VALUE
+
+Linguagem não tem funções de alto nível, mas métodos (METHOD) que são membros de uma classe
+
+async await syntax
