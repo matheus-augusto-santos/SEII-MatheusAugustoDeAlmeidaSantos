@@ -1,0 +1,50 @@
+Data Structures and Algorithms In C#: Big-O Notation
+
+Big-O Notation: means how efficient is your code. Also how fast/well does your code run
+"Como medir a eficiência de um código?"
+
+
+Big-O Complexity Chart - gráfico: Operations x Elements
+
+-> O(1) - "Constant"
+.constant time complexity
+.Assignment 		var test=0;
+.Declarations		var test;
+.Arithmetic		2+2;
+.Comparison		2>1;
+.Accessing Element	array[1];
+.Calling Function	someFunction();
+
+-> O(N) - "Linear"
+."for loop"
+.Number of inputs increase time
+
+.int total = 0 	O(1)
+.while(i<=10) O(N)
+
+Sobe linearmente, quanto maior o array/quantidade de variáveis usados, mais subir
+
+-> O(N^2) - "Quadratic"
+"it's a nested forward"
+ruim, não eficiente
+"easiest thing to grab onto"
+
+Exemplo:
+var n = int.Parse(Console.ReadLine());
+for (var r = 1; r <= n; r++)
+{
+	for (var c = 1; c <= n; c++)
+{
+		Console.Write("*");
+}
+	Console.WriteLine();
+
+}
+
+
+-> LOG N
+Binary search and Trees
+
+-> N LOG(N)
+Quick Sort, Merge Sort, Shell Sort, Cube Sort
+

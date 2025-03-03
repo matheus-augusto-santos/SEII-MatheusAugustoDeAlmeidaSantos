@@ -1,0 +1,26 @@
+Distros Linux + C#
+
+As distribuições Linux (distros) são versões diferentes do sistema operacional Linux com finalidades específicas/direcionadas, cada uma com seu próprio sistema de gerenciamento de pacotes, público-alvo e ambiente de desktop.
+As principais distros são:
+
+.Ubuntu
+.Slackware
+.openSUSE
+.Debian
+.RedHat
+.Fedora
+.Arch Linux
+.GENTOO
+.Manjaro
+.alpine
+.fire
+.android
+.CentOS
+.Kali Linux
+.Zorin/Elementary OS
+.MX Linux
+
+-
+
+C# é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. A sua sintaxe orientada a objetos foi baseada no C++ mas inclui muitas influências de outras linguagens de programação, como Object Pascal e, principalmente, Java.
+

@@ -1,0 +1,20 @@
+Data Structures and Algorithms In C#: Intro & Abstract Data Types
+
+Abstract Data Type (ADT):
+."it's just a class/object"
+.CRUD - Create / Read / Update / Delete - data
+
+"Representação e operação"
+
+.List, Linked-List, Queue, Stacks: data structures
+-> São classes que armazenam dados e atuam sobre eles
+
+Todas as classes têm exatamente a mesma forma
+
+.declare this data structure
+.call it "<name>"
+.new ..
+
+"Abstract" - porque representa toda uma classe
+
+"Class is where we house all of our data and logical places" -> Organização

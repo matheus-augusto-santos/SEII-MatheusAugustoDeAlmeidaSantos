@@ -1,0 +1,26 @@
+Diferença entre List, Array e Dicitionaries
+
+.List: 
+-Uma List é uma coleção genérica que pode ser redimensionada dinamicamente. Ela permite adicionar, remover e acessar elementos facilmente.
+-Tamanho dinâmico
+-Tipo genérico
+-Acesso por índice
+(+) Redimensionamento automático, flexível 	(-) Overhead em termos de memória
+
+
+.Array:
+-Um array é uma coleção de elementos do mesmo tipo, onde o número de elementos é fixo e definido no momento da criação.
+-Tamanho fixo (-)
+-Acesso rápido feito por índice
+-Pode armazenar qualquer tipo de dado (tipos primitivos ou objeto)
+(+) Simples, eficiente em memória
+
+
+.Dictionary:
+-Um Dictionary é uma coleção de pares chave-valor. Ele permite armazenar dados associados a uma chave única, o que torna a busca por elementos baseada na chave muito eficiente.
+-Cada elemento é composto por uma chave e um valor. Você pode acessar o valor associando-o à chave correspondente.
+-Chaves únicas: não podem se repetir dentro do dictionary
+-Tipo genérico
+(+) Acesso rápido por chave única 	(-) sem garantia de ordem dos elementos
+
+
