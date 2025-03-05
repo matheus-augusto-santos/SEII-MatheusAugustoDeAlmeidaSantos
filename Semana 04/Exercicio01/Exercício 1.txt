@@ -1,0 +1,25 @@
+A Programação Orientada a Objetos (POO) é um paradigma surgido nos anos 1970, que utiliza objetos como elementos fundamentais na construção da solução.
+Sua motivação é de representar cada elemento do mundo real para um objeto, sendo este uma "aglutinação de estados e comportamentos".
+
+.Um paradigma de programação está relacionado com o modo em que é utilizada e aplicada a linguagem de programação para o desenvolvimento de um código, de acordo com sua funcionalidade.
+
+Os pilares da POO são:
+1. Classe: é um modelo que define os atributos e métodos comuns referentes a um conjunto de objetos
+
+2. Objeto: é uma instância de uma classe. Ele representa uma entidade específica com suas próprias características definidas pela classe em questão.
+
+3. Herança: os atributos (propriedades) e métodos (funções) do objeto principal ("pai") podem ser estendidos para um novo objeto filho. Replicação das características de um objeto para outro.
+
+4. Polimorfismo: é a capacidade de um objeto se passar por outro em certas circunstâncias. Possibilidade de uma função ter diferentes implementações dependendo do contexto.
+
+5. Encapsulamento: capacidade de esconder detalhes internos da implementação do objeto e expor somente o necessário. "Público/Privado"
+
+6. Abstração: representar os objetos de maneira abstrata, que seja herdada por outras classes. "Superclasse"
+
+-Programação procedural: é outro paradigma de programação, baseado em funções ou procedimentos. Consiste em desenhar um conjunto de funções que solucionem as tarefas requeridas; uma lista de instruções para informar ao computador o que fazer.
+
+A POO está focada em modelar o mundo real em torno de objetos e classes, enquanto que a programação procedural organiza seu código em torno de funções e procedimentos, para realizar operações sobre dados.
+A POO apresenta flexibilidade e extensibilidade, por outro lado a programação procedural é mais "rígida", o programa é estático, sem poder receber muitas mudanças ou novos recursos ao longo do tempo, como é possível na POO.
+
+.Por isso a POO consegue contribuir significativamente na construção de melhores soluções e software, pois é um paradigma que permite a modelagem do mundo real de forma mais natural e intuitiva, pela atribuição das características e comportamentos reais aos objetos e classes.
+Além disso, ela apresenta grande flexibilidade e extensibilidade, facilitando o desenvolvimento do código, sua expansão e fazer alterações ou implementações desejadas. 
