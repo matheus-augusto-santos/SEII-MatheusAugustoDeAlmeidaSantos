@@ -1,0 +1,10 @@
+1-b) 1. Qual o limite de bytes a serem enviados por pacotes TCP e UDP?
+Os limites de bytes para pacotes TCP e UDP estão relacionados ao tamanho do cabeçalho e à capacidade do protocolo de lidar com dados.
+- TCP: Cabeçalho de tamanho variável, de 20 (padrão) a 80 bytes (com todas as opções)
+- UDP: Cabeçalho de tamanho fixo e pequeno: 8 bytes
+
+2. Como um arquivo grande pode ser transmitido via internet?
+Arquivos grandes não podem ser enviados de uma vez se excederem o tamanho máximo permitido por um protocolo ou rede. Então, eles são fragmentados em partes menores, chamadas de pacotes, e enviados individualmente. Quando os pacotes chegam ao destino, eles são recombinados no arquivo original.
+
+. Qual a diferença entre as implementações TCP e UDP para esse problema?
+O TCP garante a entrega de todos os pacotes em ordem e com retransmissão em caso de perda, enquanto o UDP entrega de forma mais rápida, mas sem a garantia de entrega ou de ordem de todos os pacotes.
