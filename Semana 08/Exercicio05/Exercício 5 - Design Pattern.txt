@@ -1,0 +1,19 @@
+-> Design Pattern é uma solução reutilizável para problemas comuns que ocorrem durante o desenvolvimento de software. Trata-se de uma abordagem para resolver problemas de design de maneira eficiente e padronizada. Esses padrões fornecem diretrizes e boas práticas que podem ser aplicadas em diferentes situações, tornando o código mais organizado, flexível e fácil de manter.
+-> Os Design Patterns estão fortemente associados à Programação Orientada a Objetos (POO), pois muitos desses padrões foram desenvolvidos especificamente para otimizar o uso dos princípios da POO, como herança, polimorfismo e encapsulamento. Ao utilizar Design Patterns, os desenvolvedores conseguem estruturar melhor o código, criando sistemas mais modulares e desacoplados, que são características importantes na POO.
+-> Refatoração de código é o processo de reestruturar um código existente sem alterar seu comportamento externo. O objetivo é melhorar a qualidade do código, tornando-o mais legível, modular e eficiente. Durante a refatoração, os desenvolvedores removem duplicações, simplificam estruturas complexas e aplicam melhores práticas para facilitar a manutenção e a evolução do sistema.
+Os Design Patterns podem ser extremamente úteis tanto na refatoração quanto na construção inicial de sistemas. Na refatoração, eles ajudam a transformar códigos difíceis de manter em estruturas mais eficientes e compreensíveis, com soluções testadas e comprovadas. Durante a construção inicial de um sistema, os padrões oferecem uma base sólida, garantindo que o software seja desenvolvido de forma organizada e com boas práticas desde o começo, evitando problemas futuros relacionados à manutenção e escalabilidade.
+-> UML (Unified Modeling Language) é uma linguagem padrão usada para especificar, visualizar, construir e documentar artefatos de sistemas de software. Ela facilita a comunicação entre desenvolvedores e outros stakeholders do projeto, permitindo que todos compreendam a estrutura e o comportamento do sistema. A UML não é uma linguagem de programação, mas uma ferramenta para modelar sistemas de forma visual.
+3 Grupos Principais UML:
+1. Diagramas Estruturais: Representam a estrutura estática do sistema, como o diagrama de classes, diagrama de pacotes e diagrama de objetos. Eles mostram como as classes e objetos estão organizados no sistema e suas relações.
+2. Diagramas Comportamentais: Mostram como os objetos interagem e se comportam ao longo do tempo. Exemplos incluem o diagrama de sequência, diagrama de atividades e diagrama de casos de uso.
+3. Diagramas de Interação: Focam na interação entre os objetos e sistemas. Os diagramas de comunicação e de sequência são exemplos desse grupo, mostrando como os objetos se comunicam para realizar uma tarefa ou um processo.
+
+-> 8 Design Patterns apresentados no vídeo 3:
+1. Factory: instantiate the burguer (code) for us and return it. Chamar o método para obter o objeto desejado.
+2. Builder: more control over how the code is made. Individual method for adding each "ingredient" -> each one will return a reference to the builder
+3. Singleton: a class that can only have a single instance of it that's instantiated. Ex: maintaining a single copy of our application stay
+4. Observer(Pub Sub): Behavioral pattern. Ex: YouTube. Subject=Publisher is the source of events .. Observer=Subscriber notified when these events happen in real time
+5. Iterator: defines how the values in an object can be iterated through. Behavioral pattern
+6. Strategy: Behavioral pattern. Seria como um filtro, permite que o comportamento de um objeto seja alterado sem modificar o seu código.
+7. Adapter: Structural Pattern. Faz a adaptação para que classes incompatíveis ("don't fit") possam funcionar em conjunto.
+8. Facade: usada para abstrair detalhes de nível inferior (lower level). Esconde a complexidade do sistema.
