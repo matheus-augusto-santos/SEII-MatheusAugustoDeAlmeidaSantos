@@ -1,0 +1,20 @@
+CRUD:
+Create -> Criar / INSERT INTO
+Read -> Ler / SELECT * FROM
+Update -> Atualizar / UPDATE.. SET.. where..
+Delete -> Deletar / DELETE FROM.. where..
+
+*where é usado para especificar quais registros devem ser atualizados/deletados dentro da classe
+
+ASP.NET
+É um framework web que roda sobre o .NET, o qual utiliza a linguagem C#.
+Interface com o usuário.
+Fundamentos: C# (+ .NET), POO, Banco de Dados, Bibliotecas de acesso a dados, Entity Framework.
+
+.NET X ASP.NET.
+.NET é um framework, uma plataforma para desenvolvimento de qualquer tipo de aplicação. Contém ferramentas, bibliotecas e recursos para tal.
+.ASP.NET é um framework específico para desenvolvimento web.
+
+.NET Framework (2002) - foi criado para rodar exclusivamente nas plataformas Windows
+.NET Core (2015/16) - suporte para múltiplas plataformas
+
