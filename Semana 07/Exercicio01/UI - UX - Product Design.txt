@@ -1,0 +1,64 @@
+UX: USER EXPERIENCE (Experiência do Usuário)
+
+Processo entre necessidade dos usuários, necessidade dos negócios e viabilidade do produto.
+
+- Pesquisa, documentação, testes, insights
+
+Processo de pesquisar, desenvolver e refinar todos os aspectos da interação do usuário com uma empresa/produto/serviço para garantir que este(a) atenda as necessidades do usuário.
+
+UX designer- papéis: estratégia e conteúdo, wireframe, protótipo, análise, pesquisa, validação e testes.
+
+UI: USER INTERFACE (Design de Interface)
+
+Detalhes visuais, como os usuários vão ver e utilizar o produto.
+
+- Cores, tipografia, micro-interações, estilos, pixel-perfect
+
+Responsável pela apresentação do produto, toda a parte visual.
+
+Skills: pesquisa de design, Branding, guia visual...
+
+----------------------------
+Basics of UI, UX, and Product Design
+
+UI:
+.UI design refers to the interface and graphical layout built by designers in devices and software
+.Any visual element found in applications from buttons to images and animations is all part of UI design
+.What is shown, layouts, backgrounds
+
+UX:
+.UX Design refers to how products are designed in order to provide meaningful and relatable experience to their end-users
+.UX Design consists of elements like utility, functions, ease of use and so on
+.WHO(end user behaviour and motivations) --> WHAT(features and functionality) --> WHY(what kind of experience is being offered here)
+
+Product Design:
+.PD is a term that refers to the end-to-end creation of products
+.PD involves several tasks like researching, developing, imagining, and creating products that addresses specific user problems
+.PD understands needs and antecipate usage of a product
+
+Who is a UI Designer?
+.The job of a UI Designer is to design the visual elements of an application
+.UI Designers are graphic designers who are concerned with creating visually appealing and appropriately themed interfaces
+.UI Designers aim to create united visuals that facilitate movement and interaction within the app
+.an ace UI Designer understands humam behaviour and idea of user-centricity
+.UI Designers leverage empathy in design to create interactive elements that respond in a way that feels natural to the user
+
+Who is a UX Designer?
+.a UX Designer is responsible for the user's satisfaction with the product and determines the structure and functionality of the product
+.the primary role of a UX Designer is to make sure that the product created is enjoyable, accessible, and meaningful to the end-user
+.UX Designer design how the interface behaves, how the elements are organized, how they connect, and so on
+.a UX Designer is deep rooted in consumer experiences and feedback when it comes to their core role
+
+Who is a Product Designer?
+.Product Designer takes charge of the overall design of the product from the end-to-end
+.Product Designer always keeps the user experience and improvement from time to time
+.Product Designer not only inspects the overall working of the product but also pays attention to how well the products work with costumers experience
+.Product Designer bear a greater duty for observing how the various components of the product interact with one another
+
+What is the difference between UI, UX and Product Design?
+.UI deisgn is a subset of a UX;
+.UX covers a wide range of elements;
+.UX determines how an interface works whereas UI determines how the interface will look;
+.Product Design is the same as UX design, but it includes some additional elements;
+.UX designers emphasis on the user and their experiences, whereas Product Designers covers wide ground including business goals in addition;
+.UX designers are solely responsible for customer experience, but Product Designers work with the whole business design and decisions for its growth.
