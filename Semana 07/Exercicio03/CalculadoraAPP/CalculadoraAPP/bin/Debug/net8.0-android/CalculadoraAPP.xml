@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CalculadoraAPP</name>
+    </assembly>
+    <members>
+        <member name="T:CalculadoraAPP.MainPageViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:CalculadoraAPP.MainPageViewModel.ExpressionDisplay">
+            <inheritdoc cref="F:CalculadoraAPP.MainPageViewModel._expressionDisplay"/>
+        </member>
+        <member name="P:CalculadoraAPP.MainPageViewModel.ResultDisplay">
+            <inheritdoc cref="F:CalculadoraAPP.MainPageViewModel._resultDisplay"/>
+        </member>
+        <member name="P:CalculadoraAPP.MainPageViewModel.CursorPosition">
+            <inheritdoc cref="F:CalculadoraAPP.MainPageViewModel._cursorPosition"/>
+        </member>
+        <member name="F:CalculadoraAPP.MainPageViewModel.handleButtonPressCommand">
+            <summary>The backing field for <see cref="P:CalculadoraAPP.MainPageViewModel.HandleButtonPressCommand"/>.</summary>
+        </member>
+        <member name="P:CalculadoraAPP.MainPageViewModel.HandleButtonPressCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:CalculadoraAPP.MainPageViewModel.HandleButtonPress(System.String)"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ExpressionDisplay">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ExpressionDisplay" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ResultDisplay">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ResultDisplay" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.CursorPosition">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "CursorPosition" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ExpressionDisplay">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ExpressionDisplay" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ResultDisplay">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ResultDisplay" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.CursorPosition">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "CursorPosition" generated properties.</summary>
+        </member>
+    </members>
+</doc>
